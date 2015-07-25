@@ -5,7 +5,7 @@ awe:
     #amount of time (in ticks) the server will place a chunk of blocks
     interval: 15
     #how often that a user will get an update on the current que (number of intervals)
-    talk-interval: 10
+    talk-interval: 50
     #maximum size of the blocks queue
     queue-max-size: 10000000
   dispatcher:
@@ -18,7 +18,7 @@ awe:
     max-time: 20
   #Maximum number of blocks in queue mode before AWE forces block placing.
   #Use -1 to disable force flush.
-  forceFlushBlocks: 10000
+  forceFlushBlocks: 100000
   #check for updates
   checkVersion: false
   #Disable or enable blocks physics freeze when placing blocks
@@ -30,7 +30,7 @@ awe:
   #Blocks hub plugin options  
   blocksHub:
     #Enable block chang loggin
-    logBlocks: true
+    logBlocks: false
     #Enable blocks access control
     checkAccess: false
   #Player permission groups.
