@@ -1,0 +1,106 @@
+help_user_1: Help for Users
+help_user_2: Shows a short Tutorial
+help_user_3: Shows a list of available games
+help_user_4: Join a game
+help_user_5: Leave a game
+help_user_6: Teleport to a game
+help_user_7: Show statistics
+help_admin_1: Help for Admins
+help_admin_2: Create a new game
+help_admin_3: Remove a game
+help_admin_4: Reload config.yml and language.yml
+help_admin_5: Set the spawn for a game
+help_admin_6: Stop a game
+help_admin_7: Enable a game
+help_admin_8: Disable a game
+help_admin_9: Set the rewards for a game
+help_admin_10: Remove the rewards
+help_admin_11: Select the language
+help_admin_12: Set the economy reward for the winner
+help_admin_13: Remove the economy reward
+help_admin_14: Clear the display
+help_admin_15: Change the blocks of a game (instead of sand and gravel)
+info: ' Sure you know "Connect Four" or "Four In A Line". This here is basically exactly
+  the same, just for Minecraft. It''s about your blocks (sand or gravel) to be arranged
+  in a row of four. To do that put a block on the specified throw-in slot. The block
+  will now be automatically teleported over the screen and falls down.'
+langChanged: The language was changed to English.
+game_which_tp: Which game do you want to visit?
+game_which_join: Which game do you want to join?
+game_notExists: This game doesn't exist!
+game_youAreAt: You're now at {GAME}.
+game_which_select: Which game do you want to select?
+game_selected: '{GAME} selected.'
+game_which_display: Which display do you want to empty?
+game_spawnSaved: The Spawn of {GAME} has been saved.
+game_which_stop: Which game do you want to stop?
+game_list: 'Available games:'
+left_self: You left the game.
+left_other: '{PLAYER} left the game.'
+game_which_delete: Which game do you want to delete?
+game_stoped: The game was stopped.
+game_deleted: '{GAME} was removed.'
+saved_throwin: The throw-in has been saved.
+select_both: First you have to select two corners.
+saved_display: The display was saved.
+create_select: Now select the two corners of the throw-in and of the top of the display. Put two dirtblocks at the corners of the throw-in bar so there are 7 blocks (air) between them. Do the same with two cobblestones on the top of the display.
+create_ok: Ok. You have everything ready. You can now set the spawn.
+create_error1: You've already set both corners.
+create_error2: Destroy one of the blocks to set it again.
+create_error3: The throw-in must be straight. Either X or Z axis must have the same value. Both corners have to be at the same level.
+create_error4: The display must be straight. Either X or Z axis must have the same value. Both corners have to be at the same level.
+create_saved_corner: Corner {NUMBER} of the throw-in has been saved.
+create_plz_save: You selected everything you need. Type {CMD} to save it.
+create_saved_corner2: Corner {NUMBER} of the display has been saved.
+create_removed_corner: Corner {NUMBER} has been removed. You can now set the block again.
+join1: You're already in a game!
+join2: The game is already full! Type {CMD} to watch.
+join3: You have entered the game, but you still have no opponent.
+start1: The match is under. Your opponent is {PLAYER}.
+start2: Ok, let's go. {PLAYER} has to begin.
+play_falseBlock: This is a wrong block -.-
+play_full: This column is already full!
+play_undecided: The game ended in a draw! No one has won.
+play_won: You won!
+play_lost: '{PLAYER} won...'
+play_next1: You've set a block. It's {PLAYER}s turn.
+play_next2: '{PLAYER} has set a block. It''s your turn.'
+play_error1: It's not your turn!
+blockCmd: You can't use commands! Type {CMD} to leave the game.
+game_which_enable: Which game do you want to enable?
+game_which_disable: Which game do you want to disable?
+game_enabled: '{GAME} enabled'
+game_disabled: '{GAME} disabled'
+notANumber: '{ARG} has to be a number!'
+setRewards: The rewards for {GAME} were saved.
+removedRewards: There are no longer rewards for {GAME}.
+setEcoRewards: The economy-reward for {GAME} was saved.
+removedEcoRewards: There is no longer a economy-reward for {GAME}.
+noVault: This feature requires Vault.
+gotReward: You've got a reward.
+gotEcoReward: You've got {ARG} of the currency of server as reward.
+plz_wait: Please wait a moment.
+noPermission: You don't have permission to do that!
+game_which_setblocks: For which game do you want to change the blocks?
+game_setblocks: The blocks of {GAME} have been changed.
+stats: Statistics
+statsPlayedGames: 'Played Games: '
+statsDrwan: 'drawn: '
+statsWonBy: Sand vs. Gravel (won games in %)
+statsPlacedBlocksToWinn: Placed blocks until someone won (in %)
+statsGraphs: 'Here you can find a graphical illustration of the global data (all servers
+  with ConnecFour):'
+setBetMoney: The stake for {GAME} was saved.
+removedBetMoney: There is no longer a stake for {GAME}.
+tooFarAwayWrongWorld: You must be in the same world as the game and you mustn't have a larger distance than {DISTANCE} Blocks to the game to join it.
+tooFarAway: You mustn't have a larger distance than {DISTANCE} Blocks to the game to join it.
+wrongWorld: You must be in the same world as the game to join it.
+betted: You bet {MONEY} on your victory. The winner will receive {REWARD}.
+notEnoughMoney: You don't have enough money to bet!
+help_admin_16: Set the stake for a game
+help_admin_17: Remove the stake from a game
+create_error5: The two blocks must have a distance of exactly seven blocks.
+sign1: Join game
+sign2: Have fun!
+signCreated: ConnectFour-Schild created.
+gotBetReward: You won {MONEY}.

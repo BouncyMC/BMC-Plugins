@@ -1,0 +1,37 @@
+# ChessCraft entity piece style definition file
+# See http://dev.bukkit.org/server-mods/chesscraft/pages/piece-styles
+#
+# 'name' is the name for this set, and should match the filename
+#
+# 'comment' is a freeform comment about the set (can be multi-line)
+#
+# 'pieces.<colour>.<X>' defines the NPC used for a chess piece," +
+#  where <colour> is one of black, white and <X> is one of P,R,N,B,Q,K
+#
+#  The piece definition is a compound structure with a mandatory "entity"
+#  field, which must be a Bukkit EntityType for a living entity - see
+#  http://jd.bukkit.org/dev/apidocs/org/bukkit/entity/EntityType.html
+#
+#  Other fields are optional and modify the appearance of the piece.
+#  Different entities understand different fields - see
+#  http://dev.bukkit.org/server-mods/chesscraft/pages/piece-styles for
+#  full information.
+name: entity
+comment: Entity chess set
+type: entity
+
+pieces:
+  white:
+    P: { entity: sheep, baby: true }
+    R: { entity: wolf, tame: true, color: blue }
+    N: { entity: horse, variant: horse, color: white, style: none }
+    B: { entity: villager, profession: librarian }
+    Q: { entity: mushroom_cow }
+    K: { entity: iron_golem }
+  black:
+    P: { entity: zombie, baby: true }
+    R: { entity: pig_zombie, held: gold_sword }
+    N: { entity: horse, variant: undead_horse }
+    B: { entity: skeleton, variant: wither, held: stone_sword, helmet: leather_helmet }
+    Q: { entity: witch, held: stick }
+    K: { entity: creeper }

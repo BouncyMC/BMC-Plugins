@@ -1,0 +1,19 @@
+board:
+  ==: me.desht.chesscraft.chess.BoardView
+  game: ''
+  boardStyle: wesley
+  origin:
+  - Games_New
+  - 3
+  - 73
+  - 119
+  lockStake: false
+  pieceStyle: ''
+  name: Chess1
+  defaultTcSpec: none
+  designer:
+    setName: ''
+    playerName: ''
+  defaultStake: -1.0
+  lockTcSpec: false
+  direction: SOUTH

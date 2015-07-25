@@ -1,0 +1,22 @@
+lastAccountName: hoopergirl11
+uuid: 5ec497fd-eda3-499d-9cb8-9f478a966881
+timestamps:
+  login: 1437207919522
+  lastteleport: 1437208062093
+  logout: 1436763278573
+ipAddress: 108.193.160.103
+lastlocation:
+  world: Survival
+  x: 566.601383469531
+  y: 74.28979488238352
+  z: -9.761518008497353
+  yaw: -321.95483
+  pitch: 9.173617
+logoutlocation:
+  world: Survival
+  x: -645.5
+  y: 242.0
+  z: -1087.5
+  yaw: -358.7611
+  pitch: 6.7971005
+afk: false

@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: 484d20ab-fc92-4c52-9a84-6c8955ce71db
+  amount: 0
+  world: 87178f26-8ae6-46d7-9976-1d2c3de4b7f4
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - 586.0
+  - 72.0
+  - 33.0
+  version: 1
+  uuid: 71b3aed6-78df-42ec-8edf-a241616225d9
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: FERMENTED_SPIDER_EYE

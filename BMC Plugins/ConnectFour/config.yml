@@ -1,0 +1,156 @@
+language: EN
+enable-*itsYourTurn*-spam: true
+teleportOnGameEnd: true
+clearTheDisplayOnGameEnd: false
+enableJoinSigns: true
+sameWorldToJoin: true
+checkMaxDistaceToGameSpawnOnJoin: false
+maxDistanceToGameSpawn: 20
+use_MySql: false
+mysql_host: localhost
+mysql_port: '3306'
+mysql_database: database
+mysql_username: username
+mysql_password: '12345'
+games:
+  cfour02:
+    enabled: true
+    throwIn:
+      y: 92
+      kX: -32
+      gX: -26
+      kZ: -189
+      gZ: -189
+    display:
+      y: 99
+      kX: -32
+      gX: -26
+      kZ: -188
+      gZ: -188
+    sand: 12
+    gravel: 13
+    spawn:
+      x: -28.448002459049025
+      y: 92.5
+      z: -192.48034022990478
+      yaw: -4.982422
+      pitch: -6.952797
+      world: Games
+    ecoReward: 100
+  cfour03:
+    enabled: true
+    throwIn:
+      y: 92
+      kX: -61
+      gX: -55
+      kZ: -189
+      gZ: -189
+    display:
+      y: 99
+      kX: -61
+      gX: -55
+      kZ: -188
+      gZ: -188
+    sand: 12
+    gravel: 13
+    spawn:
+      x: -57.62421428863227
+      y: 92.5
+      z: -192.36441597737104
+      yaw: -0.010681152
+      pitch: -10.101682
+      world: Games
+    ecoReward: 100
+  cfour01:
+    enabled: true
+    throwIn:
+      y: 92
+      kX: -3
+      gX: 3
+      kZ: -189
+      gZ: -189
+    display:
+      y: 98
+      kX: -3
+      gX: 3
+      kZ: -188
+      gZ: -188
+    sand: 12
+    gravel: 13
+    spawn:
+      x: 1.3967051375406048
+      y: 92.5
+      z: -192.55855110483006
+      yaw: -358.87228
+      pitch: -16.565186
+      world: Games
+    ecoReward: 100
+  cfour04:
+    enabled: true
+    throwIn:
+      y: 92
+      kX: -90
+      gX: -84
+      kZ: -189
+      gZ: -189
+    display:
+      y: 98
+      kX: -90
+      gX: -84
+      kZ: -188
+      gZ: -188
+    sand: 12
+    gravel: 13
+    spawn:
+      x: -86.3981971088929
+      y: 92.5
+      z: -191.1747045339119
+      yaw: -1.1623535
+      pitch: 16.886375
+      world: Games
+  cfour05:
+    enabled: true
+    throwIn:
+      y: 92
+      kX: -119
+      gX: -113
+      kZ: -189
+      gZ: -189
+    display:
+      y: 98
+      kX: -119
+      gX: -113
+      kZ: -188
+      gZ: -188
+    sand: 12
+    gravel: 13
+    spawn:
+      x: -115.12267756135145
+      y: 92.5
+      z: -192.41357803807546
+      yaw: -0.6209717
+      pitch: 24.873585
+      world: Games
+  cfour06:
+    enabled: true
+    throwIn:
+      y: 92
+      kX: -148
+      gX: -142
+      kZ: -189
+      gZ: -189
+    display:
+      y: 98
+      kX: -148
+      gX: -142
+      kZ: -188
+      gZ: -188
+    sand: 12
+    gravel: 13
+    spawn:
+      x: -144.45952514067903
+      y: 92.5
+      z: -192.40895663421114
+      yaw: -359.3899
+      pitch: 11.356754
+      world: Games

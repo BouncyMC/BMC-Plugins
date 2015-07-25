@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: 5ba6a01a-a4f5-4ce5-8770-1af53858a78c
+  amount: 0
+  world: 87178f26-8ae6-46d7-9976-1d2c3de4b7f4
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - 590.0
+  - 72.0
+  - 35.0
+  version: 1
+  uuid: b01f6968-dd09-494b-bd1a-15554a82d2dd
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: QUARTZ

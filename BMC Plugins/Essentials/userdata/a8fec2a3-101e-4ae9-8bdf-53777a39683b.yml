@@ -1,0 +1,21 @@
+uuid: a8fec2a3-101e-4ae9-8bdf-53777a39683b
+timestamps:
+  login: 1436343566450
+  logout: 1436345295036
+ipAddress: 120.155.19.156
+lastlocation:
+  world: Survival
+  x: -340.5
+  y: 74.00000000476837
+  z: 595.5
+  yaw: -177.85364
+  pitch: 6.6583357
+afk: false
+logoutlocation:
+  world: Survival
+  x: -339.5
+  y: 110.00000000476837
+  z: 594.5
+  yaw: -146.25781
+  pitch: 33.19819
+lastAccountName: rebell45

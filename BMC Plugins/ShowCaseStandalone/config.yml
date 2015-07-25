@@ -1,0 +1,46 @@
+Default:
+  ShowTransactionMessagesOnUnlimited: false
+  Unit: 64
+  ShowTransactionMessages: true
+Save:
+  Interval: 60
+Debug:
+  Log: false
+  Permissions: false
+  Thread: false
+  Chunk: false
+EconomySystem: Vault
+Localization:
+  File: locale_EN.yml
+  Version: 2.9
+CreatePrice:
+  SellShop: 0.0
+  BuyShop: 0.0
+  Display: 0.0
+  Exchange: 0.0
+Display:
+  UseSigns: false
+  UseStorage: false
+Residence:
+  hook: false
+  allowOwner: false
+  flag: shops
+CancelExplosions: false
+HideInactiveShops: false
+MaxAmountOnCreative: false
+Towny:
+  allowInWilderness: false
+  needsResident: true
+  needsToBeOwner: false
+Limitation:
+  MaxAmount: -1
+BlockList:
+  BlackList: true
+  Blocks: []
+SellItemList:
+  BlackList: true
+  Items: []
+BuyItemList:
+  BlackList: true
+  Items: []
+WorldBlacklist: []

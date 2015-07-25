@@ -1,0 +1,24 @@
+uuid: 9cec851c-8eb5-4c2f-bd9b-9e004df0d790
+timestamps:
+  login: 1436500715974
+  logout: 1436500825512
+ipAddress: 67.140.202.146
+lastlocation:
+  world: Survival
+  x: -292.96585968637555
+  y: 68.84970523706303
+  z: 601.2179556704413
+  yaw: 239.48756
+  pitch: -0.6000315
+powertools:
+  '321':
+  - lightning
+afk: false
+logoutlocation:
+  world: Survival
+  x: -243.3213029104933
+  y: 109.97768006230666
+  z: 525.2535475095992
+  yaw: 160.81415
+  pitch: 50.999935
+lastAccountName: orculear

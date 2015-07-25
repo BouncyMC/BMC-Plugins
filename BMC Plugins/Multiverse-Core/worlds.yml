@@ -1,0 +1,72 @@
+worlds:
+  Survival:
+    seed: 318945901257687833
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: false
+    spawn:
+      x: 572.0
+      y: 74.0
+      z: -10.0
+      pitch: 0.0
+      yaw: 0.0
+      world: Survival
+    autoload: true
+    bedrespawn: true
+  Games_New:
+    generator: EmptyWorldGenerator
+    seed: -7914887987653911444
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: false
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: false
+    spawn:
+      x: 0.5085614428532343
+      y: 70.0
+      z: 1.2277368468125203
+      pitch: 35.020763
+      yaw: -0.0769043
+      world: Games_New
+    autoload: true
+    bedrespawn: true

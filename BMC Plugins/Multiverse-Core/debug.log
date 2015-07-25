@@ -1,0 +1,155 @@
+2015-07-19 11:58:28 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-19 11:58:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: -3586792360644719118
+2015-07-19 11:58:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: -3586792360644719118
+2015-07-19 11:58:28 [INFO] [Multiverse-Core] 1 - World(s) loaded.
+2015-07-19 11:58:55 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & generator: CleanRoomGenerator
+2015-07-19 11:59:01 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 11:59:01 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-19 11:59:01 [INFO] [Multiverse-Core] New Spawn for 'Games_Work' is Located at: Games_Work:0.00,63.00,0.00:0.00:0.00
+2015-07-19 11:59:20 [WARNING] [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+2015-07-19 11:59:20 [WARNING] [Multiverse-Core] To unload it using multiverse, use:
+2015-07-19 11:59:20 [WARNING] [Multiverse-Core] /mv import Games_work NORMAL
+2015-07-19 11:59:23 [INFO] [Multiverse-Core] World 'Games_Work' was unloaded from memory.
+2015-07-19 11:59:23 [INFO] [Multiverse-Core] World 'Games_Work' was removed from config.yml
+2015-07-19 11:59:47 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & generator: CleanroomGenerator
+2015-07-19 11:59:48 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 11:59:48 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-19 11:59:48 [INFO] [Multiverse-Core] New Spawn for 'Games_Work' is Located at: Games_Work:0.00,65.00,0.00:0.00:0.00
+2015-07-19 12:00:49 [INFO] [Multiverse-Core] World 'Games_Work' was unloaded from memory.
+2015-07-19 12:00:49 [INFO] [Multiverse-Core] World 'Games_Work' was removed from config.yml
+2015-07-19 12:01:38 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & generator: CleanroomGenerator:
+2015-07-19 12:01:39 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 12:01:39 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-19 12:01:39 [INFO] [Multiverse-Core] New Spawn for 'Games_Work' is Located at: Games_Work:1.50,1.00,0.50:0.00:0.00
+2015-07-19 12:02:00 [INFO] [Multiverse-Core] World 'Games_Work' was unloaded from memory.
+2015-07-19 12:02:00 [INFO] [Multiverse-Core] World 'Games_Work' was removed from config.yml
+2015-07-19 12:03:20 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-19 12:03:20 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: -3586792360644719118
+2015-07-19 12:03:20 [INFO] [Multiverse-Core] 1 - World(s) loaded.
+2015-07-19 12:03:37 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & generator: EmptyWorldGenerator
+2015-07-19 12:03:37 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 12:03:37 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-19 12:03:37 [INFO] [Multiverse-Core] New Spawn for 'Games_Work' is Located at: Games_Work:0.00,65.00,0.00:0.00:0.00
+2015-07-19 12:06:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-19 12:06:26 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & seed: -3471559861948076613 & generator: EmptyWorldGenerator
+2015-07-19 12:06:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 12:06:26 [WARNING] [Multiverse-Core] Original Location: X: -106 Y: 64 Z: 256 P: 0 Y: 0 
+2015-07-19 12:06:26 [INFO] [Multiverse-Core] New Spawn for 'Games_Work' is Located at: Games_Work:-104.50,64.00,256.50:0.00:0.00
+2015-07-19 12:06:27 [INFO] [Multiverse-Core] 1 - World(s) loaded.
+2015-07-19 12:06:27 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games) did not exist!!
+2015-07-19 12:06:27 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games) did not exist!!
+2015-07-19 12:06:28 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games) did not exist!!
+2015-07-19 12:06:44 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games) did not exist!!
+2015-07-19 12:06:44 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games) did not exist!!
+2015-07-19 12:07:14 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & generator: EmptyWorldGenerator
+2015-07-19 12:07:15 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 12:07:15 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-19 12:07:15 [INFO] [Multiverse-Core] New Spawn for 'Games' is Located at: Games:0.00,65.00,0.00:0.00:0.00
+2015-07-19 13:34:29 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-19 13:34:30 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & seed: -3471559861948076613 & generator: EmptyWorldGenerator
+2015-07-19 13:34:30 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-19 13:34:30 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-19 13:34:30 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 89 Z: 0 P: 0 Y: 0 
+2015-07-19 13:34:30 [INFO] [Multiverse-Core] New Spawn for 'Games' is Located at: Games:0.00,111.00,0.00:0.00:0.00
+2015-07-19 13:34:30 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-19 14:28:54 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-19 14:28:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & seed: -3471559861948076613 & generator: EmptyWorldGenerator
+2015-07-19 14:28:55 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-19 14:28:55 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-20 16:35:21 [INFO] [Multiverse-Core] World 'Games' was unloaded from memory.
+2015-07-20 16:35:22 [INFO] [Multiverse-Core] World 'Games' was removed from config.yml
+2015-07-20 16:35:47 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: null & generator: EmptyWorldGenerator
+2015-07-20 16:35:47 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-20 16:35:47 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 111 Z: 0 P: 0 Y: 0 
+2015-07-20 16:35:47 [INFO] [Multiverse-Core] New Spawn for 'Games' is Located at: Games:1.50,106.00,0.50:0.00:0.00
+2015-07-20 16:36:35 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-20 16:36:35 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_Work' - Env: NORMAL - Type: NORMAL & seed: -3471559861948076613 & generator: EmptyWorldGenerator
+2015-07-20 16:36:36 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-20 16:36:36 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-20 16:36:53 [INFO] [Multiverse-Core] World 'Games_Work' was unloaded from memory.
+2015-07-20 16:36:53 [INFO] [Multiverse-Core] World 'Games_Work' was removed from config.yml
+2015-07-20 16:37:11 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games_Work) did not exist!!
+2015-07-20 16:37:11 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games_Work) did not exist!!
+2015-07-20 16:38:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: null
+2015-07-20 17:19:27 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & generator: EmptyWorldGenerator
+2015-07-20 17:19:28 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-07-20 17:19:28 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+2015-07-20 17:19:28 [INFO] [Multiverse-Core] New Spawn for 'Games_New' is Located at: Games_New:0.00,65.00,0.00:0.00:0.00
+2015-07-20 17:28:33 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-20 17:28:33 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-20 17:28:33 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-20 17:28:35 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-20 17:28:35 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-20 17:28:35 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games_Work) did not exist!!
+2015-07-20 17:30:41 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-20 17:30:41 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-20 17:30:41 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-20 17:30:41 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-20 17:30:41 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-20 17:39:47 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-20 17:39:47 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-20 17:39:47 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-20 17:39:48 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-20 17:39:48 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-21 10:46:53 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 10:46:53 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-21 10:46:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 10:46:55 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 10:46:56 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-21 12:50:09 [INFO] [Multiverse-Core] Loading World & Settings - 'Games' - Env: NORMAL - Type: NORMAL & seed: 4783820788301124825 & generator: EmptyWorldGenerator
+2015-07-21 12:50:09 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 12:50:09 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 12:50:09 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-07-21 13:06:42 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 13:06:42 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 13:06:42 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 13:06:42 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-21 13:06:42 [WARNING] [Multiverse-Core] The world specified as the spawn world (Games) did not exist!!
+2015-07-21 13:23:27 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 13:23:27 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 13:23:27 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 13:23:27 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-21 13:32:19 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 13:32:19 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 13:32:19 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 13:32:20 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-21 14:26:58 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 14:26:58 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 14:26:58 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 14:26:58 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-21 14:58:52 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 14:58:52 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 14:58:52 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 14:58:53 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-21 15:05:40 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 15:05:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 15:05:40 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 15:05:40 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-21 18:32:08 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-21 18:32:08 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-21 18:32:09 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-21 18:32:09 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-22 09:39:15 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-22 09:39:15 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-22 09:39:15 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-22 09:39:16 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-22 10:03:36 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-22 10:03:36 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-22 10:03:36 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-22 10:03:36 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-24 07:51:06 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-24 07:51:06 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-24 07:51:07 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-24 07:51:07 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-25 13:11:18 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-25 13:11:18 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-25 13:11:18 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-25 13:11:19 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-25 13:18:36 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-25 13:18:36 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-25 13:18:37 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-25 13:18:37 [INFO] [Multiverse-Core] 2 - World(s) loaded.
+2015-07-25 13:42:05 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-07-25 13:42:05 [INFO] [Multiverse-Core] Loading World & Settings - 'Survival' - Env: NORMAL - Type: NORMAL & seed: 318945901257687833
+2015-07-25 13:42:06 [INFO] [Multiverse-Core] Loading World & Settings - 'Games_New' - Env: NORMAL - Type: NORMAL & seed: -7914887987653911444 & generator: EmptyWorldGenerator
+2015-07-25 13:42:06 [INFO] [Multiverse-Core] 2 - World(s) loaded.

@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: 5ba6a01a-a4f5-4ce5-8770-1af53858a78c
+  amount: 0
+  world: 87178f26-8ae6-46d7-9976-1d2c3de4b7f4
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - 558.0
+  - 72.0
+  - 33.0
+  version: 1
+  uuid: f6ea0048-d2a5-4791-ad69-188d1b4a497f
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR

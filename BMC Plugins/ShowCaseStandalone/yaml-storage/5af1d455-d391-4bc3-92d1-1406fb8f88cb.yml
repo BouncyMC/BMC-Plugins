@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: 5ba6a01a-a4f5-4ce5-8770-1af53858a78c
+  amount: 0
+  world: 87178f26-8ae6-46d7-9976-1d2c3de4b7f4
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - 570.0
+  - 72.0
+  - 35.0
+  version: 1
+  uuid: 5af1d455-d391-4bc3-92d1-1406fb8f88cb
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: FLOWER_POT_ITEM

@@ -1,0 +1,32 @@
+# Name for this set - should match the filename
+name: wesley
+
+# List of materials used in the set
+# Can be specified as plain integer (e.g. '0' - air), material name (e.g. iron_block)
+# or material plus data (e.g. 35:0, wool:white)
+# If you use plain integers, they must be quoted, or the set will not load!
+# If you use material names, they must match the org.bukkit.Material definitions exactly
+# - see http://jd.bukkit.org/apidocs/org/bukkit/Material.html
+materials:
+  black:
+    G: gold_block
+    O: air
+    N: quartz
+    S: '44:7'
+  white:
+    G: diamond_block
+    O: air
+    N: quartz
+    S: '44:7'
+# Piece definitions
+# This is a list of list of strings such that:
+# - definition[0] is the lowest layer on the Y-axis
+# - definition[0][0] is the northmost row on the lowest layer
+# - each string runs from west to east and consists of materials defined above
+pieces:
+  P: [ [ SGS, GGG, SGS ], [ SSS, SNS, SSS ] ]
+  N: [ [ GGG, GGG, GGG ], [ SNS, NNN, ONO ], [ SSS, SNS, SNS ], [ SNS, SNS, SSS] ]
+  B: [ [ GGG, GGG, GGG ], [ SOS, ONO, SOS ], [ SSS, SNS, SSS ], [ SOS, OGO, SOS ], [ SSS, SOS, SSS] ]
+  R: [ [ GGG, GGG, GGG ], [ ONO, NNN, ONO ], [ SGS, NNN, SGS ], [ GNG, NNN, GNG], [ NSN, SOS, NSN ], [ OSO, SSS, OSO ] ]
+  Q: [ [ GGG, GGG, GGG ], [ SNS, NNN, SNS ], [ NSN, SGS, NSN ], [ NSN, SGS, NSN ], [ SNS, NNN, SNS ], [ SSS, SGS, SSS ] ]
+  S: [ [ GGG, GGG, GGG ], [ SNS, NNN, SNS ], [ SSS, SNS, SSS ], [ SNS, NNN, SNS ], [ GSG, SSS, GSG ], [ SSS, SGS, SSS ] ]

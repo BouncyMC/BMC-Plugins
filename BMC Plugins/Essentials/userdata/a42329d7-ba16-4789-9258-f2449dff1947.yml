@@ -1,0 +1,25 @@
+lastAccountName: 2face720
+timestamps:
+  login: 1437383718691
+  logout: 1437385765358
+  lastteleport: 1437286693256
+  mute: 0
+ipAddress: 175.38.226.206
+lastlocation:
+  world: Games
+  x: -226.67775888691932
+  y: -223.68369081025213
+  z: -45.69999998807907
+  yaw: -221.29663
+  pitch: 18.450083
+money: '400.0'
+logoutlocation:
+  world: Games
+  x: -227.42635854398782
+  y: 92.49412670782753
+  z: 5.9951482651469
+  yaw: -105.58548
+  pitch: -14.849824
+afk: false
+muted: false
+nickname: Cameron

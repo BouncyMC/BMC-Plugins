@@ -1,0 +1,19 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: 5ba6a01a-a4f5-4ce5-8770-1af53858a78c
+  amount: 0
+  world: 87178f26-8ae6-46d7-9976-1d2c3de4b7f4
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - 558.0
+  - 72.0
+  - 27.0
+  version: 1
+  uuid: a5308d74-8f5f-4d53-a77b-68a86b411a1a
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOD_STEP
+    damage: 1

@@ -1,0 +1,20 @@
+uuid: 445255d2-ce89-4985-8d46-7ef99993346b
+timestamps:
+  login: 1436352532206
+  logout: 1436354168234
+ipAddress: 1.123.172.51
+lastlocation:
+  world: Survival
+  x: 34.5
+  y: 63.0
+  z: 164.5
+  yaw: -19.65
+  pitch: 4.2
+logoutlocation:
+  world: Survival
+  x: -291.58561561644444
+  y: 97.52673335369332
+  z: 565.2814521550097
+  yaw: -289.187
+  pitch: 17.849943
+lastAccountName: the_grim_flipper

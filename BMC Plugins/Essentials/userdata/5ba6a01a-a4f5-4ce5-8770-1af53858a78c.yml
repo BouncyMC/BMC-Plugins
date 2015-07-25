@@ -1,0 +1,24 @@
+lastAccountName: walster001
+timestamps:
+  login: 1437811165465
+  logout: 1437812934054
+  lastteleport: 1437811185890
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Games_New
+  x: 5.234233912001255
+  y: 75.2405071910773
+  z: -3.6914414737204218
+  yaw: -216.96014
+  pitch: -28.876842
+logoutlocation:
+  world: Games_New
+  x: -400.5
+  y: 128.0
+  z: 39.5
+  yaw: 137.4272
+  pitch: 48.835205
+afk: false
+money: '9999999976455.0'
+godmode: true
+nickname: Matthew

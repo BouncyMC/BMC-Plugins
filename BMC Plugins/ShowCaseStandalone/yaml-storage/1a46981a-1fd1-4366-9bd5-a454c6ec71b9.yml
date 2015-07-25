@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: 484d20ab-fc92-4c52-9a84-6c8955ce71db
+  amount: 0
+  world: 87178f26-8ae6-46d7-9976-1d2c3de4b7f4
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - 588.0
+  - 72.0
+  - 33.0
+  version: 1
+  uuid: 1a46981a-1fd1-4366-9bd5-a454c6ec71b9
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
