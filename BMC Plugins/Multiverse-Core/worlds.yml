@@ -13,9 +13,9 @@ worlds:
     allowweather: true
     difficulty: EASY
     animals:
-      spawn: false
+      spawn: true
     monsters:
-      spawn: false
+      spawn: true
     entryfee:
       currency: -1
       price: 0.0
